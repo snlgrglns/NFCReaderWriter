@@ -1,0 +1,48 @@
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\bin\Debug\NfcCard.exe
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\bin\Debug\NfcCard.pdb
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\bin\Debug\FirstFloor.ModernUI.dll
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\bin\Debug\NdefLibrary.dll
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\bin\Debug\FirstFloor.ModernUI.xml
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\NfcCard.csprojResolveAssemblyReference.cache
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\MainWindow.baml
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\App.baml
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\MainWindow.g.cs
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\App.g.cs
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\NfcCard_MarkupCompile.cache
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\NfcCard.g.resources
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\NfcCard.exe
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\NfcCard.pdb
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\pages\MiniWindow.baml
+c:\users\it deurali\documents\visual studio 2015\Projects\NfcCard\NfcCard\obj\Debug\pages\MiniWindow.g.cs
+D:\Projects\NfcCard\NfcCard\obj\Debug\NfcCard.exe
+D:\Projects\NfcCard\NfcCard\obj\Debug\NfcCard.pdb
+D:\Projects\NfcCard\NfcCard\bin\Debug\NfcCard.exe
+D:\Projects\NfcCard\NfcCard\bin\Debug\NfcCard.pdb
+D:\Projects\NfcCard\NfcCard\bin\Debug\FirstFloor.ModernUI.dll
+D:\Projects\NfcCard\NfcCard\bin\Debug\NdefLibrary.dll
+D:\Projects\NfcCard\NfcCard\bin\Debug\FirstFloor.ModernUI.xml
+D:\Projects\NfcCard\NfcCard\obj\Debug\NfcCard.csprojResolveAssemblyReference.cache
+D:\Projects\NfcCard\NfcCard\obj\Debug\MainWindow.baml
+D:\Projects\NfcCard\NfcCard\obj\Debug\pages\MiniWindow.baml
+D:\Projects\NfcCard\NfcCard\obj\Debug\App.baml
+D:\Projects\NfcCard\NfcCard\obj\Debug\MainWindow.g.cs
+D:\Projects\NfcCard\NfcCard\obj\Debug\pages\MiniWindow.g.cs
+D:\Projects\NfcCard\NfcCard\obj\Debug\App.g.cs
+D:\Projects\NfcCard\NfcCard\obj\Debug\NfcCard_MarkupCompile.cache
+D:\Projects\NfcCard\NfcCard\obj\Debug\NfcCard.g.resources
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\NfcCard.exe
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\NfcCard.pdb
+G:\VisualStudioProjects\NfcCard\NfcCard\bin\Debug\NfcCard.exe
+G:\VisualStudioProjects\NfcCard\NfcCard\bin\Debug\NfcCard.pdb
+G:\VisualStudioProjects\NfcCard\NfcCard\bin\Debug\FirstFloor.ModernUI.dll
+G:\VisualStudioProjects\NfcCard\NfcCard\bin\Debug\NdefLibrary.dll
+G:\VisualStudioProjects\NfcCard\NfcCard\bin\Debug\FirstFloor.ModernUI.xml
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\NfcCard.csprojResolveAssemblyReference.cache
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\MainWindow.baml
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\pages\MiniWindow.baml
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\App.baml
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\MainWindow.g.cs
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\pages\MiniWindow.g.cs
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\App.g.cs
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\NfcCard_MarkupCompile.cache
+G:\VisualStudioProjects\NfcCard\NfcCard\obj\Debug\NfcCard.g.resources
